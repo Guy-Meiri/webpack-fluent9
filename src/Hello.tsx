@@ -1,8 +1,10 @@
-import {Button} from '@fluentui/react-components';
+// import {Button} from '@fluentui/react-components';
+import {ActivityItem, Button} from '@fluentui/react'
 
 const Hello = () => (
 <>
-<Button>hey</Button>
+<ActivityItem>hey</ActivityItem>
+<Button>test</Button>
 <h1>Hello from React with Typescript!</h1>
 </>
 );

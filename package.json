@@ -28,7 +28,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-    "@fluentui/react-components": "^9.20.4",
+    "@fluentui/react": "^8.109.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
